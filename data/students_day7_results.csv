@@ -1,6 +1,6 @@
-student_id,name,gender,attendance,math,science,english,total,average,result,performance_level
-1,Ram,M,85.0,78.0,82,75,235,78.33333333333333,Average,Medium
-2,Sita,F,77.5,88.0,91,89,268,89.33333333333333,High,High
-3,Hari,M,70.0,65.0,68,72,205,68.33333333333333,Average,Low
-4,Gita,F,95.0,71.5,94,93,277,86.16666666666667,High,High
-5,Binod,M,60.0,55.0,58,62,175,58.333333333333336,Low,Low
+student_id,name,gender,attendance,math,science,english,total,average,result,performance_level,performance
+1,Ram,M,85.0,78.0,82,75,235,78.33333333333333,Average,Medium,Average
+2,Sita,F,77.5,88.0,91,89,268,89.33333333333333,High,High,High
+3,Hari,M,70.0,65.0,68,72,205,68.33333333333333,Average,Low,Average
+4,Gita,F,95.0,71.5,94,93,277,86.16666666666667,High,High,High
+5,Binod,M,60.0,55.0,58,62,175,58.333333333333336,Low,Low,Low
